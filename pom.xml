@@ -121,7 +121,7 @@
     </dependencies>
 
     <build>
-        <finalName>pineAppleDash</finalName>
+        <finalName>javaApiSpringSecurityJwt</finalName>
         <plugins>
             <plugin>
                 <groupId>org.springframework.boot</groupId>
